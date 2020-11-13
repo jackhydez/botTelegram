@@ -5,7 +5,7 @@ install lib for telegram bot
 pip3 install aiogram
 ```
 
-add your tokens if file config.py
+add your tokens in file config.py
 
 run
 ```
